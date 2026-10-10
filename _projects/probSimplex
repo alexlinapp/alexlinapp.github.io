@@ -1,0 +1,9 @@
+---
+layout: page
+title: Simplex $\&$ $\ell^1$-Ball Projection
+description: NumPy implementations of Euclidean projection onto the probability simplex and $\ell^1$ ball, comparing O(n log n) sorting and expected O(n) randomized algorithms with correctness checks and runtime benchmarks against PyProximal.
+img: assets/img/probSimplex_img1.png
+category: work
+importance: 1
+redirect: https://github.com/alexlinapp/projection_prob_simplex
+---
