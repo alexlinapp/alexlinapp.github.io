@@ -59,6 +59,8 @@ See Jekyll Rendering [docs](https://jekyllrb.com/docs/rendering-process/)
     - [docs](https://jekyllrb.com/docs/variables/#site-variables)
 
 
+### GitHub Actions
+- Disabled Update TOC Workflow (re-enable if want to use the TOC/original README)
 
 
 
