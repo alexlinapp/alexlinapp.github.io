@@ -1,20 +1,18 @@
 Personal Website
 
-
-
-
 ### Notes
+
 For me.
 
 - Change `_config.yml` defaults to page rules
 - Exclude/Include:
-    - Tells Jekyll should I read this file?
-    - If excluded, does not even read the file
+  - Tells Jekyll should I read this file?
+  - If excluded, does not even read the file
 - Published controls:
-    - After reading the file, determines whether or not the page should be published
+  - After reading the file, determines whether or not the page should be published
 
+Full Jekyll Sequence:
 
-Full Jekyll Sequence: 
 ```
 Start Jekyll
     ↓
@@ -30,8 +28,10 @@ Render: Liquid → Markdown conversion → layouts
     ↓
 Write the finished website
 ```
+
 See Jekyll Rendering [docs](https://jekyllrb.com/docs/rendering-process/)
 
+<<<<<<< HEAD
 
 
 
@@ -51,12 +51,15 @@ See Jekyll Rendering [docs](https://jekyllrb.com/docs/rendering-process/)
 
 
 
+=======
+>>>>>>> 6054726b5ab98941daf698b0f300d24dbf263f79
 #### More Config
 
 - Disabled Jekyll Archives for now
-    - [Jekyll Archives Plugin](https://github.com/george-gca/jekyll-archives-v2#about-jekyll-archives)
+  - [Jekyll Archives Plugin](https://github.com/george-gca/jekyll-archives-v2#about-jekyll-archives)
 
 - Jekyll Site Variables:
+<<<<<<< HEAD
     - [docs](https://jekyllrb.com/docs/variables/#site-variables)
 
 
@@ -66,3 +69,6 @@ See Jekyll Rendering [docs](https://jekyllrb.com/docs/rendering-process/)
 ### References
 - CSS, HTML Pain :(
     - https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/object-fit#values
+=======
+  - [docs](https://jekyllrb.com/docs/variables/#site-variables)
+>>>>>>> 6054726b5ab98941daf698b0f300d24dbf263f79
