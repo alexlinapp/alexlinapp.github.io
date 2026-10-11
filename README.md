@@ -36,7 +36,18 @@ See Jekyll Rendering [docs](https://jekyllrb.com/docs/rendering-process/)
 
 
 
-
+### Docker
+- Build, recreate, start and attach containers:
+    - `docker compose up`:
+        - Also starts the container and etc
+- Start the container for local:
+    - `docker compose start jekyll`
+    - `docker compose stop jekyll`
+- Restart the `jekyll` container:
+    - `docker compose restart jekyll`
+- Check Status
+    - `docker compose status`
+    - `docker ps`
 
 
 
@@ -47,3 +58,11 @@ See Jekyll Rendering [docs](https://jekyllrb.com/docs/rendering-process/)
 
 - Jekyll Site Variables:
     - [docs](https://jekyllrb.com/docs/variables/#site-variables)
+
+
+
+
+
+### References
+- CSS, HTML Pain :(
+    - https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/object-fit#values
