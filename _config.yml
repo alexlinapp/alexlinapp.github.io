@@ -147,7 +147,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # lsi: false # produce an index for related posts
 
 blog_name: Alex Lin's Blog # blog_name will be displayed in your blog page
-blog_description: Coming Soon
+blog_description:
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
