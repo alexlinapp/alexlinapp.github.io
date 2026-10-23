@@ -247,7 +247,6 @@ include:
   - _pages/projects.md
   - _pages/404.md
 exclude:
-  - _pages/
   - _teachings/
   - _books/
   - _news/
